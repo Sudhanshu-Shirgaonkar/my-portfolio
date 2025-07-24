@@ -447,7 +447,7 @@ const App = () => {
       {/* Footer */}
       <footer className="bg-gray-200 py-4 text-center text-sm text-gray-600">
         <div className="flex justify-center gap-4 mb-2">
-          <a href="https://www.linkedin.com/in/sudhanshu-shirgaonkar/" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/Sudhanshu-Shirgaonkar" target="_blank" rel="noopener noreferrer">
             <FaGithub className="text-xl" />
           </a>
           <a href="https://www.linkedin.com/in/sudhanshu-shirgaonkar/" target="_blank" rel="noopener noreferrer">
