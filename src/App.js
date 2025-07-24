@@ -53,13 +53,13 @@ const projectsData = [
 const educationData = [
   {
     title: "Master of Computer Applications",
-    school: "XYZ University",
+    school: "D. Y. Patil International University, Akurdi, Pune",
     details: "Specialized in Artificial Intelligence & Data Science.",
     year: "2021 – 2023",
   },
   {
     title: "Bachelor of Computer Applications",
-    school: "ABC College",
+    school: " D. Y. Patil International University, Akurdi, Pune",
     details: "Specialized in Mobile Applications & Web Technology",
     year: "2018 – 2021",
   },
