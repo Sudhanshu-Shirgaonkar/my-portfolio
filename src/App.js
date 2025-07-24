@@ -251,15 +251,13 @@ const App = () => {
             </div>
           </AnimatedSection>
           <AnimatedSection direction="right">
-            <div className="flex-1">
-              <motion.img
-                src="/Developer activity-rafiki.png"
-                alt="dev illustration"
-                className="w-full max-w-sm mx-auto"
-                animate={{ y: [0, -8, 0] }}
-                transition={{ repeat: Infinity, duration: 6, ease: "easeInOut" }}
-              />
-            </div>
+            <motion.img
+              src={`${process.env.PUBLIC_URL}/Developer activity-rafiki.png`}
+              alt="dev illustration"
+              className="w-full max-w-sm mx-auto"
+              animate={{ y: [0, -8, 0] }}
+              transition={{ repeat: Infinity, duration: 6, ease: "easeInOut" }}
+            />
           </AnimatedSection>
         </div>
       </section>
